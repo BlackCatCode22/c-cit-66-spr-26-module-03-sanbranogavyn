@@ -1,0 +1,3 @@
+P:/cppDemos/pointersArePowerful/cmake-build-debug/CMakeFiles/pointersArePowerful.dir
+P:/cppDemos/pointersArePowerful/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/cppDemos/pointersArePowerful/cmake-build-debug/CMakeFiles/rebuild_cache.dir
